@@ -1,2 +1,2 @@
-# hse-cpp-classes
-Some classes from my university C++ course 
+# C++ classes
+Implementation of some classes from my university C++ course.
